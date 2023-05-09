@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Fengfan Yang 杨风帆
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Fengfan
+last_name: Yang
 
 # Status emoji
 status:
