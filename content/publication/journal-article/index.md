@@ -1,13 +1,6 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-slides: example
+abstract: ""
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "1"
@@ -20,10 +13,9 @@ authors:
   - Charles Robert Jankowski
   - Deqing Yang
   - Yanghua Xiao
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: "*Journal of Source Themes, 1*(1)"
+author_notes: []
+publication: In The 61th Annual Meeting of the Association for Computational
+  Linguistics (ACL 2023)
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -36,8 +28,7 @@ title: Distilling Script Knowledge from Large Language Models for Constrained
   Language Planning
 doi: ""
 featured: false
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
