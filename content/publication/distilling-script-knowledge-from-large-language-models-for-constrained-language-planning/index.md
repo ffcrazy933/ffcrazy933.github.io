@@ -15,7 +15,7 @@ authors:
   - Yanghua Xiao
 author_notes: []
 publication: In The 61th Annual Meeting of the Association for Computational
-  Linguistics (ACL 2023)
+  Linguistics (**ACL 2023**)
 summary: ""
 url_dataset: ""
 url_project: ""
