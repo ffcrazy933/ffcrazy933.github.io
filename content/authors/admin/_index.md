@@ -8,6 +8,11 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
+  - display:
+      header: false
+    icon_pack: far
+    link: 21110980014@m.fudan.edu.cn
+    icon: envelope
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en-CN&user=6JMfD44AAAAJ
@@ -17,9 +22,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://orcid.org/0000-0001-8161-6429
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 organizations:
   - name: Fudan University
     url: https://www.fudan.edu.cn/en/
