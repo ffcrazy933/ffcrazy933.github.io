@@ -30,7 +30,11 @@ authors:
 author_notes: []
 publication: In *The 61th Annual Meeting of the Association for Computational
   Linguistics (**ACL 2023**)*
-summary: ""
+summary: we propose equipping the PLM-based extractor with a knowledge-guided
+  prompt as an intervention to alleviate concept bias through the lens of a
+  Structural Causal Model (SCM). The prompt adopts the topic of the given entity
+  from the existing knowledge in KGs to mitigate the spurious co-occurrence
+  correlations between entities and biased concepts.
 url_dataset: ""
 url_project: ""
 publication_short: ""
