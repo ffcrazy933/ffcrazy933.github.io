@@ -14,7 +14,7 @@ authors:
   - Rui Xie
 publication: In The 20th International Semantic Web Conference(ISWC 2021)
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
