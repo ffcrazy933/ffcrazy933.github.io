@@ -1,5 +1,5 @@
 ---
-title: Siyu Yuan 员司雨
+title: Siyu Yuan
 role: Ph.D. in Statistics
 bio: ""
 interests:
