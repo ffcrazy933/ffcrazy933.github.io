@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/abs/2305.05252
 publication_types:
   - "1"
 authors:
@@ -36,5 +36,5 @@ date: 2023-05-10T02:12:23.523Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/siyuyuan/coscript
 ---
