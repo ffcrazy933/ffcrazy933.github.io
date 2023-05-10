@@ -113,7 +113,7 @@ sections:
           description: ''
           organization: Fudan University
           organization_url: ''
-          title: China N
+          title: China National Scholarship
     design:
       columns: '2'
   - block: collection
