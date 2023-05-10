@@ -10,15 +10,18 @@ main:
   - name: Awards
     url: '#awards'
     weight: 20
+  - name: Gallery
+    url: '#gallery'
+    weight: 30
   - name: Featured
     url: '#featured'
-    weight: 30
+    weight: 40
   - name: Recent
     url: '#recent'
-    weight: 30
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
 #    url: uploads/resume.pdf
-#    weight: 70
+#    weight: 70 
