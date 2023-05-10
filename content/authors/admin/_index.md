@@ -30,8 +30,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fudan University
+    url: https://www.fudan.edu.cn/en/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -60,5 +60,3 @@ She is devoted to acquiring knowledge, especially **meta-knowledge** based on 
 * **Knowledge acquisition**, especially on excavating knowledge based on pre-trained language models, including concept acquisition, script generation and analogy making.
 
 (Download my [resumé](http://siyuyuan.github.io/files/CV_English_.pdf).)
-
-<!--EndFragment-->
