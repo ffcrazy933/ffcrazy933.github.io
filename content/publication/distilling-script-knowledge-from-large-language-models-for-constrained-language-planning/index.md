@@ -37,7 +37,7 @@ url_video: ""
 title: Distilling Script Knowledge from Large Language Models for Constrained
   Language Planning
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
