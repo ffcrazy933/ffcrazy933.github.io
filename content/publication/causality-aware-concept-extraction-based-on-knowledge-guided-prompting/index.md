@@ -38,7 +38,7 @@ url_source: ""
 url_video: ""
 title: Causality-aware Concept Extraction based on Knowledge-guided Prompting
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
