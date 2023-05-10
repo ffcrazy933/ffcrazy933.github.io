@@ -33,7 +33,10 @@ authors:
 author_notes: []
 publication: In *The 2022 Conference on Empirical Methods in Natural Language
   Processing(**EMNLP 2022**)*
-summary: ""
+summary: We employ curriculum learning (CL) to train a generative entity typing
+  model to overcome issues with coarse-grained types and heterogeneous data,
+  where the curriculum could be self-adjusted with the self-paced learning
+  according to its comprehension of the type granularity and data heterogeneity.
 url_dataset: ""
 url_project: ""
 publication_short: ""
