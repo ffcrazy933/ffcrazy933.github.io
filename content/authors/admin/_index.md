@@ -27,11 +27,10 @@ organizations:
     url: https://www.fudan.edu.cn/en/
 education:
   courses:
-    - course: Ph.D., Statistics, Fudan University, 2021-2025 (estimated)
+    - course: Ph.D., Statistics, 2021-2025 (estimated)
       institution: Fudan University
       year: ""
-    - course: B.S., Bachelor of Data science and big data technology, Fudan
-        University, 2017-2021
+    - course: B.S., Bachelor of Data science and big data technology, 2017-2021
       institution: Fudan University
       year: ""
 superuser: true
