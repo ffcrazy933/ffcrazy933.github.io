@@ -48,7 +48,6 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
@@ -63,13 +62,12 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
-    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: 2006
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
@@ -129,7 +127,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-   - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
