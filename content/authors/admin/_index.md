@@ -6,7 +6,6 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-  - play
 social:
   - display:
       header: false
