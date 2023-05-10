@@ -14,7 +14,7 @@ authors:
   - Yanghua Xiao Long paper
 author_notes: []
 publication: The 2022 Conference on Empirical Methods in Natural Language
-  Processing(EMNLP 2022)
+  Processing(**EMNLP 2022**)
 summary: ""
 url_dataset: ""
 url_project: ""
