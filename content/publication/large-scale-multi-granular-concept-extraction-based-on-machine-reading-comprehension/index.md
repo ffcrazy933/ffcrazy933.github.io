@@ -14,7 +14,7 @@ authors:
   - Yanghua Xiao
   - Rui Xie
 author_notes: []
-publication: In The 20th International Semantic Web Conference(**ISWC 2021**)
+publication: In *The 20th International Semantic Web Conference(**ISWC 2021**)*
 summary: ""
 url_dataset: ""
 url_project: ""
