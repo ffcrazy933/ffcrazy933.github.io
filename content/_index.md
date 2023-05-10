@@ -15,7 +15,9 @@ sections:
     id: news
     content:
       title: News
-      text: hhhhhhhh
+      text:
+        - aaaa
+        - bbb
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
