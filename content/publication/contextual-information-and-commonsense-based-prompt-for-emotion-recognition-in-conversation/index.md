@@ -45,7 +45,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 4.png
+  filename: ""
 date: 2022-02-19T02:12:23.523Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
