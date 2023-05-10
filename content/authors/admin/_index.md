@@ -1,8 +1,7 @@
 ---
 title: Siyu Yuan 员司雨
 role: Ph.D. in Statistics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
