@@ -15,7 +15,56 @@ sections:
     id: news
     content:
       title: News
-      text: ***2023-05***: Two papers accepted to ACL 2023! One is **Coscript** on constraint language planning, and the other is **KPCE** on concept extraction through the lens of a Structural Causal Model.***2022-10***: Our work **Generative Entity Typing with Curriculum Learning** got accepted at EMNLP 2022!***2022-09***: Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
+      text: <ul>
+<li>
+<p><strong><em>May</em> 2023</strong>: Got two papers about LLMs accepted to the main conference of ACL 2023! <a href="/publication/uncommongen/">One</a> is about analyzing why LLMs fail to generate negative knowledge while being able to recognize them. The other is <a href="/publication/coscript/">CoScript</a>, studying how to generate plans under constraints with LLMs. See you in Toronto!</p>
+</li>
+<li>
+<p><strong><em>Feb.</em> 2023</strong>: Presenting <a href="/publication/vence/">VENCE</a> on AAAI 2023!</p>
+</li>
+<li>
+<p><strong><em>Nov.</em> 2022</strong>: Two papers accepted to AAAI 2023! One is <a href="/publication/vence/">VENCE</a> on correcting factual errors in texts, and the other is <a href="/publication/neon/">NEON</a> on explaining why a statement is false: both focus on solving the tasks without direct supervision. Welcome to check it out!</p>
+</li>
+<li>
+<p><strong><em>Oct.</em> 2022</strong>: Gave a talk at MSRA.</p>
+</li>
+<li>
+<p><strong><em>Oct.</em> 2022</strong>: I was awarded with China National Scholarship for Doctoral Students.</p>
+</li>
+<li>
+<p><strong><em>Sept.</em> 2022</strong>: Just married💕!</p>
+</li>
+<li>
+<p><strong><em>Sept.</em> 2022</strong>: We officially release a new version of the E-KAR dataset (v1.0 -&gt; v1.1), with a substantially improved <a href="https://huggingface.co/datasets/Jiangjie/ekar_english" target="_blank" rel="noopener">English dataset</a>! Over 600 problems and 1,000 explanation texts are manually adjusted, and we are as strict as we can! See more information at the <a href="https://ekar-leaderboard.github.io" target="_blank" rel="noopener">E-KAR project page</a>. Have fun!</p>
+</li>
+<li>
+<p><strong><em>July</em> 2022</strong>: <a href="https://mp.weixin.qq.com/s/7RVdq4vrLO6e63dOYMMR_A" target="_blank" rel="noopener">Talk</a> titled “Right for the Right Reasons: Explainable Reasoning on Analogical Recognition and Fact Verification” (in <em>Chinese</em>).</p>
+</li>
+<li>
+<p><strong><em>July</em> 2022</strong>: <a href="/publication/act/">ACT for NAT</a> will be presented at NAACL-HLT 2022.</p>
+</li>
+<li>
+<p><strong><em>May</em> 2022</strong>: <a href="https://ekar-leaderboard.github.io" target="_blank" rel="noopener">E-KAR</a> will be presented at the <a href="https://csrr-workshop.github.io" target="_blank" rel="noopener">Commonsense Representation and Reasoning (CSRR) workshop</a> at ACL 2022, discussions welcomed!</p>
+</li>
+<li>
+<p><strong><em>May</em> 2022</strong>: <a href="https://ekar-leaderboard.github.io" target="_blank" rel="noopener">E-KAR</a> will be presented at ACL 2022 (virtually) in a poster session, welcome to check it out!</p>
+</li>
+<li>
+<p><strong><em>Apr.</em> 2022</strong>: Our paper (<a href="/publication/act/">ACT</a>) on non-autoregressive translation got accepted at NAACL-HLT 2022!</p>
+</li>
+<li>
+<p><strong><em>Mar.</em> 2022</strong>: The <a href="https://eval.ai/web/challenges/challenge-page/1671/overview" target="_blank" rel="noopener">leaderboard</a> of <a href="https://ekar-leaderboard.github.io" target="_blank" rel="noopener">E-KAR</a> has been released at EvalAI! Welcome to participate!</p>
+</li>
+<li>
+<p><strong><em>Mar.</em> 2022</strong>: Our work <a href="/publication/loren/">LOREN</a> received the attention of <a href="https://twitter.com/WikiResearch" target="_blank" rel="noopener">WikiResearch Team</a> 🧐, here’s <a href="https://twitter.com/WikiResearch/status/1504873884776030211" target="_blank" rel="noopener">the tweet</a>.</p>
+</li>
+<li>
+<p><strong><em>Feb.</em> 2022</strong>: Giving oral &amp; poster presentations about <a href="/publication/loren/">LOREN</a> and <a href="/publication/educat/">EDUCAT</a> at AAAI 2022 virtual conference.</p>
+</li>
+<li>
+<p><strong><em>Feb.</em> 2022</strong>: Our paper (<a href="https://ekar-leaderboard.github.io" target="_blank" rel="noopener">E-KAR</a>) on analogical reasoning got accepted at ACL 2022 (Findings)!</p>
+</li>
+</ul>
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
