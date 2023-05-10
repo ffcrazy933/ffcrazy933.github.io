@@ -15,7 +15,7 @@ sections:
     id: news
     content:
       title: News
-      text: <ul><li><p><strong><em>May</em> 2023</strong>: Got two papers about LLMs accepted to the main conference of ACL 2023! <a href="/publication/uncommongen/">One</a> is about analyzing why LLMs fail to generate negative knowledge while being able to recognize them. The other is <a href="/publication/coscript/">CoScript</a>, studying how to generate plans under constraints with LLMs. See you in Toronto!</p></li></ul>
+      text: hhhhhhhh
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
