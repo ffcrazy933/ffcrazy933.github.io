@@ -8,24 +8,15 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en-CN&user=6JMfD44AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/siyuyuan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://orcid.org/0000-0001-8161-6429
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
