@@ -12,11 +12,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
-    id: section-1
+    id: news
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: News
+      text: 
+        - [2023-05] Two papers accepted to ACL 2023! One is Coscript on constraint language planning, and the other is KPCE on concept extraction through the lens of a Structural Causal Model.
+        - [2022-10] Our work Generative Entity Typing with Curriculum Learning got accepted at EMNLP 2022!
+        - [2022-09] Our work Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation has been reported in the ECML PKDD 2022 online!
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
