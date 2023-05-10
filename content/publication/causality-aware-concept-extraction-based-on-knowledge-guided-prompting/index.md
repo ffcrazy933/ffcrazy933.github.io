@@ -13,8 +13,8 @@ authors:
   - Yanghua Xiao
   - Rui Xie
 author_notes: []
-publication: In The 61th Annual Meeting of the Association for Computational
-  Linguistics (**ACL 2023**)
+publication: In *The 61th Annual Meeting of the Association for Computational
+  Linguistics (**ACL 2023**)*
 summary: ""
 url_dataset: ""
 url_project: ""
