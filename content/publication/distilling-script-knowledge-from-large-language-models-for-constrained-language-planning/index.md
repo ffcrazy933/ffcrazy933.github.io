@@ -41,9 +41,10 @@ featured: false
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: 2.png
 date: 2023-05-10T02:12:23.523Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
