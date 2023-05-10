@@ -12,7 +12,7 @@ authors:
   - Kaiyan Cao
   - Yanghua Xiao
   - Rui Xie
-publication: The 20th International Semantic Web Conference(ISWC 2021)
+publication: In The 20th International Semantic Web Conference(ISWC 2021)
 draft: false
 featured: false
 image:
