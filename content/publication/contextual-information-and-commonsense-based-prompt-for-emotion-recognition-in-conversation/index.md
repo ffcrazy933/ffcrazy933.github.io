@@ -11,9 +11,9 @@ authors:
   - Kaiyan Cao
   - Zhiyao Zhang and Yanghua Xiao
 author_notes: []
-publication: In The 2022 Conference of the European Conference on Machine
+publication: In *The 2022 Conference of the European Conference on Machine
   Learning and Principles and Practice of Knowledge Discovery in Databases(**ECML
-  PKDD 2022**)
+  PKDD 2022**)*
 summary: ""
 url_dataset: ""
 url_project: ""
