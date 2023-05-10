@@ -74,30 +74,61 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-05-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Fudan University
+          organization_url: ''
+          title: Outstanding Academic Scholarship for Master’s Students
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2021-05-25'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Fudan University
+          organization_url: ''
+          title: Outstanding Academic Scholarship for Master’s Students
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2022-03-25'
+          description: ''
+          organization: Fudan University
+          organization_url: ''
+          title: Outstanding Graduate Student of Shanghai Colleges and University
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-05-25'
+          description: ''
+          organization: Fudan University
+          organization_url: ''
+          title: Outstanding Student pacemaker of Fudan University
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2020-03-25'
+          description: ''
+          organization: Fudan University
+          organization_url: ''
+          title: First-Class Academic Scholarship of Fudan University
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2019-05-25'
+          description: ''
+          organization: Fudan University
+          organization_url: ''
+          title: National Encouragement Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018-05-25'
+          description: ''
+          organization: Fudan University
+          organization_url: ''
+          title: China N
     design:
       columns: '2'
   - block: collection
