@@ -41,7 +41,7 @@ url_source: ""
 url_video: ""
 title: Generative Entity Typing with Curriculum Learning
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
