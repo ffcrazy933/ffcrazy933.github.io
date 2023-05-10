@@ -1,36 +1,37 @@
 ---
-# Display name
-title: Fengfan Yang 杨风帆
-
-# Full name (for SEO)
-first_name: Fengfan
-last_name: Yang
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Siyu Yuan 员司雨
+role: Ph.D. in Statistics
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,43 +43,22 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+status:
+  icon: ☕️
+last_name: Yang
 highlight_name: true
+first_name: Fengfan
+email: ""
 ---
+Siyu Yuan is a second-year Ph.D. studentat the School of Data Science in Fudan University and a member of [KW FUDAN Lab](http://kw.fudan.edu.cn/), supervised by Associate [Prof. Deqing Yang](http://kw.fudan.edu.cn/people/yangdeqing/) and [Prof. Yanghua Xiao](http://kw.fudan.edu.cn/people/xiaoyanghua/).
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+She is devoted to acquiring knowledge, especially **meta-knowledge** based on pre-trained language models and making machines have the human-like cognitive abilities. Main interested research topics include (but not limited to)
+
+* **Symbolic knowledge distillation**, especially distilling symbolic knowledge from large language models (LLMs) and transferring it to smaller but specialized models to enhance their performance.
+* **LLM prompt engineering**, especially on endow appropriate instructions with COT to LLMs (e.g., GPT-3, BLOOM, BLOOMZ, LLaMA) for various kinds of task.
+* **Knowledge acquisition**, especially on excavating knowledge based on pre-trained language models, including concept acquisition, script generation and analogy making.
+
+(Download my [resumé](http://siyuyuan.github.io/files/CV_English_.pdf).)
+
+<!--EndFragment-->
