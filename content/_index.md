@@ -11,6 +11,15 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
   - block: experience
     content:
       title: Experience
