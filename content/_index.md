@@ -31,7 +31,7 @@ sections:
       text: 
         + NLP Research Intern, Brain Technologies, June 2022 - September 2022  
           
-          + dfs
+            + dfs
         
         + ***Oct.*** **2022**\:Our work **Generative Entity Typing with Curriculum Learning** got accepted at EMNLP 2022!
 
