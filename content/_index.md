@@ -25,17 +25,19 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
   - block: markdown
-    id: news
+    id: experience
     content:
       title: Experience
       text: 
-        + NLP Research Intern, Brain Technologies, June 2022 - September 2022  
+        + *NLP Research Intern*, Brain Technologies, June 2022 - September 2022  
             
-            + dfs
+            **Topic** - Meta-knowledge Generation and LLM prompt engineering
         
-        + ***Oct.*** **2022**\:Our work **Generative Entity Typing with Curriculum Learning** got accepted at EMNLP 2022!
+        + *Student Researcher*, Knowledge Works Lab, Fudan University, March 2019 - Present
 
-        + ***Sept.*** **2022**\:Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
+            **Topic** - Meta-knowledge Generation and Knowledge Graph
+            
+            **Advisor** - Prof. Yanghua Xiao and Prof. Deqing Yang
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
