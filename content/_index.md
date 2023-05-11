@@ -17,6 +17,7 @@ sections:
       title: News
       text: 
         1. dfgsdgsdg  
+        
         2. gsdfgsd
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
