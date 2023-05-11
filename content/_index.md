@@ -29,13 +29,13 @@ sections:
     content:
       title: Experience
       text: 
-        + *NLP Research Intern*, Brain Technologies, June 2022 - September 2022  
+        + *NLP Research Intern*, Brain Technologies, June 2022 - September 2022  <br>
             
             **Topic** - Meta-knowledge Generation and LLM prompt engineering
         
-        + *Student Researcher*, Knowledge Works Lab, Fudan University, March 2019 - Present
+        + *Student Researcher*, Knowledge Works Lab, Fudan University, March 2019 - Present<br>
 
-            **Topic** - Meta-knowledge Generation and Knowledge Graph
+            **Topic** - Meta-knowledge Generation and Knowledge Graph<br>
             
             **Advisor** - Prof. Yanghua Xiao and Prof. Deqing Yang
     design:
