@@ -24,6 +24,20 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+  - block: markdown
+    id: news
+    content:
+      title: Experience
+      text: 
+        + NLP Research Intern, Brain Technologies, June 2022 - September 2022  
+          + dfs
+        
+        + ***Oct.*** **2022**\:Our work **Generative Entity Typing with Curriculum Learning** got accepted at EMNLP 2022!
+
+        + ***Sept.*** **2022**\:Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
   - block: experience
     content:
       title: Experience
