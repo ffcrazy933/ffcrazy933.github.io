@@ -34,8 +34,7 @@ education:
       year: ""
 superuser: true
 status:
-  icon: 
-  #icon: ☕
+  icon: ☕
 last_name: Yuan
 highlight_name: true
 first_name: Siyu
