@@ -1,6 +1,7 @@
 ---
 title: Siyu Yuan
 role: Ph.D. in Statistics
+avatar_filename: 微信图片_20230511164819.jpg
 bio: ""
 interests:
   - Large Language Models
