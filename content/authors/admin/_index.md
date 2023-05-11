@@ -3,9 +3,9 @@ title: Siyu Yuan
 role: Ph.D. in Statistics
 bio: ""
 interests:
-  + Artificial Intelligence
-  + Computational Linguistics
-  + Information Retrieval
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 social:
   - display:
       header: false
