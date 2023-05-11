@@ -16,11 +16,11 @@ sections:
     content:
       title: News
       text: 
-        + ***May*** **2023** \: Two papers accepted to ACL 2023! One is **Coscript** on constraint language planning, and the other is **KPCE** on concept extraction through the lens of a Structural Causal Model.  
+        + ***May*** **2023**\:Two papers accepted to ACL 2023! One is **Coscript** on constraint language planning, and the other is **KPCE** on concept extraction through the lens of a Structural Causal Model.  
         
-        + ***Oct.*** **2022** \: Our work **Generative Entity Typing with Curriculum Learning** got accepted at EMNLP 2022!
+        + ***Oct.*** **2022**\:Our work **Generative Entity Typing with Curriculum Learning** got accepted at EMNLP 2022!
 
-        + ***Sept.*** **2022** \: Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
+        + ***Sept.*** **2022**\:Our work **Contextual Information and Commonsense Based Prompt for Emotion Recognition in Conversation** has been reported in the ECML PKDD 2022 online!
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
