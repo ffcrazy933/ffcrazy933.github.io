@@ -16,7 +16,7 @@ sections:
     content:
       title: News
       text: 
-        + **May 2023**: Two papers accepted to ACL 2023! One is **Coscript** on constraint language planning, and the other is **KPCE** on concept extraction through the lens of a Structural Causal Model.  
+        +  **May 2023**: Two papers accepted to ACL 2023! One is **Coscript** on constraint language planning, and the other is **KPCE** on concept extraction through the lens of a Structural Causal Model.  
         
         + Oct.2022: Our work Generative Entity Typing with Curriculum Learning got accepted at EMNLP 2022!
     design:
