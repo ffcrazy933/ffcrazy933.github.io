@@ -15,12 +15,9 @@ sections:
     id: news
     content:
       title: News
-      text: ## Heading 2   
-                广泛豆腐干
-            ### Heading 3  
-                俺是个
-            #### Heading 4   
-                俺是个
+      text: 
+        - hhh
+        - hhhh
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
