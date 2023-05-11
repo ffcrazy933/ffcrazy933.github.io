@@ -11,13 +11,12 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: list
+  - block: markdown
     id: news
     content:
       title: News
-      text: 
-        - hhh
-        - hhhh
+      text:
+          dfgsdgsdg
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
