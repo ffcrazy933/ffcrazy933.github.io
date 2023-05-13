@@ -121,20 +121,7 @@ sections:
     design:
       columns: '2'
       view: citation
-<!--   - block: markdown
-    id: experience
-    content:
-      title: Experience
-      text: 
-        + *NLP Research Intern*, Brain Technologies, June 2022 - September 2022  <br>
-          **Topic** - Meta-knowledge Generation and LLM prompt engineering
-        
-        + *Student Researcher*, Knowledge Works Lab, Fudan University, March 2019 - Present<br>
-          **Topic** - Meta-knowledge Generation and Knowledge Graph<br>
-          **Advisor** - Prof. Yanghua Xiao and Prof. Deqing Yang
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2' -->
+
   - block: experience
     content:
       title: Experience
