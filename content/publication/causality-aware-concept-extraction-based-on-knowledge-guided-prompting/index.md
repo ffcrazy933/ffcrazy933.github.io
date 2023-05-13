@@ -27,7 +27,9 @@ authors:
   - Jiaqing Liang
   - Yanghua Xiao
   - Rui Xie
-author_notes: []
+author_notes: 
+  - "Equal contribution"
+  - "Equal contribution"
 publication: In *The 61th Annual Meeting of the Association for Computational
   Linguistics (**ACL 2023**)*
 summary: we propose equipping the PLM-based extractor with a knowledge-guided
