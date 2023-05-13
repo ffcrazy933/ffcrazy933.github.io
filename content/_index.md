@@ -95,15 +95,6 @@ sections:
           title: China National Scholarship
     design:
       columns: '2'
-  - block: markdown
-    id: gallery
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -144,4 +135,13 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
 ---
